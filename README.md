@@ -2,7 +2,7 @@
 
 In this exercise, the objective was mark up a letter with the HTML tags learned.
 
-### Done with
+### Languages used:
 
 HTML, CSS
 
