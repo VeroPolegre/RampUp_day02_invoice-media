@@ -1,6 +1,6 @@
 # RampUp Day02 Exercise: Invoice and Media
 
-In this exercise, the objective was to make a gym invoice that led to a multimedia section of kitten photos, videos and audio.
+In this exercise the objective was to make a gym invoice that led to a multimedia section of kitten photos, videos and audio.
 
 ### Languages used:
 
